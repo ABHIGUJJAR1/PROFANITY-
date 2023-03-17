@@ -1,0 +1,7 @@
+Q and A
+2. An interesting dataset I have come across and has been gaining attention in machine learning community. Xview image dataset (Satellite view or drone view). The dataset is interesting because it can be trained for object detection and computer vision. It is not the usual image dataset (the parameters are very small in size) and machine learning can be used to detect the smallest object in the image. It can be trained on diverse range of task such as vehicle detection, wildfires, wildlife animal control, illegal activities like hunting, poaching etc. this can lead to better understanding of human movements, animal movements and improve the development of machine learning 
+Recent dataset websites: 
+Roboflow ,Hugging face
+3. Yes, the data can be stored in files, but database gives a better accessibility. Data in files are slower to access, read and write. Simple terms files are like a store access and database is like shopping malls. Multiple data can be accessed at a time and update simultaneously , linking the data and quick access can give better analysis.
+4. I’m a beginner in Unix command line but willing to learn and explore.   
+ 
